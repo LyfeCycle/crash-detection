@@ -5,7 +5,7 @@
     <version>1.0</version>
     <publisher>alexwong</publisher>
     <url>http://lyfecycle.me</url>
-    <description/>
+    <description>undefined</description>
     <copyright>2014 by alexwong</copyright>
     <icon>appicon.png</icon>
     <fullscreen>false</fullscreen>
@@ -48,7 +48,7 @@
         <theme>default</theme>
     </mobileweb>
     <modules>
-        <module platform='iphone'>ti.coremotion</module>
+        <module platform="iphone">ti.coremotion</module>
     </modules>
     <deployment-targets>
         <target device="android">false</target>
